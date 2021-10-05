@@ -1,0 +1,18 @@
+- Setup: GitHub
+  - [ ] created this issue
+  - [ ] assigned myself
+  - [ ] moved the issue to the project board
+- Setup: local
+  - [ ] pulled the most recent code from `main`/`master`
+  - [ ] created a new branch for my introduction
+- Writing the content:
+  - [ ] added my intro file in `/people` according to group conventions
+  - [ ] linked to my file from `/README.md` according to group conventions
+- Before pushing my branch:
+  - [ ] formatted the code
+  - [ ] fixed all spelling mistakes and added new words to the dictionary
+  - [ ] fixed all linting mistakes
+- After pushing my branch:
+  - [ ] created a new PR linked to this issue
+  - [ ] make sure all of the checks passed
+  - [ ] assigned someone to review and merge my PR
