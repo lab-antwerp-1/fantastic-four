@@ -1,10 +1,17 @@
-# Fantastic Four
+# Fantastic Four 😎
 
-<!-- describe your project -->
+## We are the Fantastic Four!
+
+"4 times the action. 4 times the adventure. 4 times the fantastic."
+
+
+![alt text](https://media.giphy.com/media/46RfuAmIQVt8A/giphy.gif)
+
+
 
 ## Getting Started
 
-<!-- a guide to using this repository -->
+To use our repository please follow these steps:
 
 1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
 2. `cd template-markdown`
