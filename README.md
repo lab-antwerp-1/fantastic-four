@@ -7,6 +7,15 @@
 
 ![alt text](https://media.giphy.com/media/46RfuAmIQVt8A/giphy.gif)
 
+## Learn more about us:
+
+Eduardo
+
+[Sanne](https://github.com/lab-antwerp-1/fantastic-four/blob/master/sanne-bio) 
+
+Rupam
+
+MJ
 
 
 ## Getting Started
