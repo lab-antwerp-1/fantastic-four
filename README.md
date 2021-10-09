@@ -9,7 +9,7 @@
 
 ## Learn more about us:
 
-Eduardo
+[Eduardo](https://github.com/lab-antwerp-1/fantastic-four/blob/master/edualfaro-bio.md)
 
 [Sanne](https://github.com/lab-antwerp-1/fantastic-four/blob/master/sanne-bio) 
 
